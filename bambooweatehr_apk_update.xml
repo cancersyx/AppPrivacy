@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	<name>com.eworld.bambooweather</name>
+	<date>20211221</date>
+	<version_code>8</version_code>
+	<description>1.新闻功能修改</description>
+	<!-- force=1强制升级 -->
+	<force>0</force>
+	<url>http://www.sfwind.xyz/apk_update_github/apk/BambooWeather_20211222_V2.5.2.apk</url>
+	<md5></md5>
+</app>
