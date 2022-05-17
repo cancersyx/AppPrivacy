@@ -2,7 +2,7 @@
 <app>
 	<name>com.eworld.bambooweather</name>
 	<date>20220209</date>
-	<version_code>12</version_code>
+	<version_code>9</version_code>
 	<description>1.新闻功能修改</description>
 	<!-- force=1强制升级 -->
 	<force>0</force>
