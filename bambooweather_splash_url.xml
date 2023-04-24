@@ -3,5 +3,5 @@
 	<!-- 0代表关闭闪屏页；1代表打开闪屏页 -->
 	<splash_enable>1</splash_enable>
 	<!-- 图片地址 -->
-	<splash_url>http://www.sfwind.xyz/AppPrivacy/images/img_splash_0.jpg</splash_url>
+	<splash_url>http://www.sfwind.cn/AppPrivacy/images/img_splash_0.jpg</splash_url>
 </splash>
