@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>来记账APP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+</head>
+
+<body>
+  <div class="app">
+      <div class="logo"> <img src="./images/icon_laijizhang_96x96.png"><span></span></div>
+      <h3>来记账</h3>
+      <dt>来记账APP是一款方便用户记录和管理个人财务的应用程序。</dt>
+      <a href="http://www.sfwind.xyz/AppPrivacy/apk/laijizhang_20230614_V3.2.1.apk"  class="but">下载</a>
+      <br>
+      <div>
+        <img src="./images/laijizhang_0.jpg" width="160" height="300"/>
+        <img src="./images/laijizhang_1.jpg" width="160" height="300"/>
+        <img src="./images/laijizhang_2.jpg" width="160" height="300"/>
+        <img src="./images/laijizhang_3.jpg" width="160" height="300"/>
+      </div>
+     
+  </div>
+  <div class="sm">
+      <p>开发者：换元不配限</p>
+      <p>版本：3.2.1</p>
+  </div>
+  <div class="popover">
+      <div class="text">
+          <p>1、点击右上角的
+          <span class="icon iconfont icon-more"></span>
+          <img src="images/jt.png" alt="">
+          </p>
+          <p>2、选择在浏览器打开即可正常下载</p>
+      </div>
+      <div class="mask"></div>
+  </div>
+</body>
+<style type="text/css">
+.app{text-align: center; position: fixed;width: 100%; top: 20%;}
+.logo{height: 68px;width: 68px;position: relative;margin: 0 auto;}
+.logo img{width: 100%;border-radius: 10px;}
+.logo span{position: absolute;background: #007bff;color: #fff;display: block;top: -6px;right: -10px;padding: 0 5px;font-size: 1.0erm;}
+.app h3{font-weight: normal;font-size: 16px;margin-top: 15px;}
+.app dt{font-size: 13px;margin-top: 10px;color: #666;}
+.app a{    
+    background: #007bff;
+    display: block;
+    width: 200px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 34px;
+    border-radius: 3px;
+    margin: 0 auto;
+margin-top: 30px;}
+.sm{text-align: center;position: fixed;bottom: 15px;width: 100%;color: #7d7d7d;}
+.popover{position: fixed;width: 100%;height: 100%;
+display: none;}
+.popover .mask{background: #000;width: 100%;height: 100%;display: block;opacity: 0.7;z-index: 1;}
+.text{position: relative;z-index: 9999;margin-top: 40px;padding: 20px 10%;color: #fff;}
+.text p{margin-top: 20px;font-size: 18px;    font-family: initial;}
+.text img{position: absolute;width: 20px;bottom: 70px;margin-left: 20px;}
+</style>
+<script src="js/jquery.min.js"></script> 
+<script type="text/javascript">
+    var ua = navigator.userAgent.toLowerCase();
+    var uUserAgent = navigator.userAgent;
+    var isAndroid = uUserAgent.indexOf('Android');
+    if(ua.match(/MicroMessenger/i)=="micromessenger"){
+      $('.popover').show();
+    }else{
+       $('.popover').hide();
+    }
+    $('.but').click(function(){
+        if(ua.match(/MicroMessenger/i)=="micromessenger"){
+           //微信
+          if(isAndroid > -1){
+               alert('请去浏览器里面下载')
+            }else{
+             // Toast('请去App Store中进行下载')
+              window.location.href = 'https://apps.apple.com/cn/app/%E8%87%AA%E7%94%B1%E8%A3%85%E8%A3%85%E4%BF%AE/id1551584473'
+            }
+        }else{
+            if(isAndroid > -1){
+                 window.location.href = 'https://zyz68.com/app/zyzApp.apk';
+             }else{
+               // Toast('请去App Store中进行下载')
+               window.location.href = 'https://apps.apple.com/cn/app/%E8%87%AA%E7%94%B1%E8%A3%85%E8%A3%85%E4%BF%AE/id1551584473'
+            }
+            
+        }
+    });
+</script>
