@@ -1,0 +1,98 @@
+{
+  "date": "2023-07-19",
+  "result": [
+    {
+      "type": 0,
+      "discover_item_id": 0,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_banner_0.png",
+        "https://www.sfwind.cn/images/banpolin_banner_1.png",
+        "https://www.sfwind.cn/images/banpolin_banner_2.png"
+      ],
+      "quote": "",
+      "book_name": "",
+      "author": "余华",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    },
+    {
+      "type": 1,
+      "discover_item_id": 1,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_1.png"
+      ],
+      "quote": "",
+      "book_name": "",
+      "author": "余华",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    },
+    {
+      "type": 1,
+      "discover_item_id": 2,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_1.png"
+      ],
+      "quote": "君不见黄河之水天上来，奔流到海不复回。\n君不见高堂明镜悲白发，朝如青丝暮成雪。\n人生得意须尽欢，莫使金樽空对月。\n天生我材必有用，千金散尽还复来。",
+      "book_name": "",
+      "author": "李白",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    },
+    {
+      "type": 1,
+      "discover_item_id": 2,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_2.png"
+      ],
+      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
+      "book_name": "",
+      "author": "李白",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    },
+    {
+      "type": 1,
+      "discover_item_id": 3,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_2.png"
+      ],
+      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
+      "book_name": "",
+      "author": "李白",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    },
+    {
+      "type": 1,
+      "discover_item_id": 4,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_2.png"
+      ],
+      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
+      "book_name": "",
+      "author": "李白",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    },
+    {
+      "type": 1,
+      "discover_item_id": 5,
+      "img": [
+        "https://www.sfwind.cn/images/banpolin_2.png"
+      ],
+      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
+      "book_name": "",
+      "author": "李白",
+      "love_num": 10,
+      "collect_num": 5,
+      "comment_num": 20
+    }
+  ]
+}
