@@ -665,7 +665,7 @@
       "type": 1,
       "discover_item_id": 47,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_9.png"
       ],
       "quote": "那一天，我见过的最强剑客，握起了天下最强的宝剑，却早已没有了剑心。",
       "name": "狐妖小红娘",
@@ -679,7 +679,7 @@
       "type": 1,
       "discover_item_id": 48,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_8.png"
       ],
       "quote": "淮竹虽为妾，霸业未娶妻。",
       "name": "狐妖小红娘",
@@ -693,7 +693,7 @@
       "type": 1,
       "discover_item_id": 49,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_7.png"
       ],
       "quote": "缘之一字，聚散离合，不是当事人，总是体会没那么深刻。",
       "name": "狐妖小红娘",
@@ -707,7 +707,7 @@
       "type": 1,
       "discover_item_id": 50,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_6.png"
       ],
       "quote": "傲来雾，花果香，定海一棒万妖朝。\n东海外，水帘中，齐天比高仙折腰。",
       "name": "狐妖小红娘",
@@ -777,7 +777,7 @@
       "type": 1,
       "discover_item_id": 55,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_5.png"
       ],
       "quote": "我说的是求而不得，一旦得到，愿为了他舍弃一切的东西，那才配称为最想要。",
       "name": "一人之下",
@@ -791,7 +791,7 @@
       "type": 1,
       "discover_item_id": 56,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_5.png"
       ],
       "quote": "有人殚精竭虑，却掀不起风浪，有人一念之差，却让世界天翻地覆。",
       "name": "一人之下",
@@ -819,7 +819,7 @@
       "type": 1,
       "discover_item_id": 58,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_4.png"
       ],
       "quote": "太多时候，你我的模样是别人决定。",
       "name": "一人之下",
@@ -833,7 +833,7 @@
       "type": 1,
       "discover_item_id": 59,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_4.png"
       ],
       "quote": "判断一个人不要听他说什么，而是看他做了什么。",
       "name": "一人之下",
@@ -847,12 +847,292 @@
       "type": 1,
       "discover_item_id": 60,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_4.png"
       ],
       "quote": "一个成熟的男人应该知道自己当下最需要什么，又该放弃什么，要做的这点需要一定的素质，隐忍、坚毅、甚至是凶狠。",
       "name": "一人之下",
       "author": "",
       "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 3,
+      "discover_item_id": 61,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_only_picture_0.png"
+      ],
+      "quote": "",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 62,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "我还是决心起床，同崭新的纤尘不染的太阳一同醒来时的惬意之感是任凭什么都无法替代的。",
+      "name": "世界尽头与冷酷仙境",
+      "author": "村上春树",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 63,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "我可以否认一样东西，但不一定非得诋毁它，或者剥夺别人相信的权利。",
+      "name": "卡利古拉",
+      "author": "加缪",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+     {
+      "type": 1,
+      "discover_item_id": 64,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "人性的复杂，在于对取舍的纠缠不清。",
+      "name": "大雪中的山庄",
+      "author": "东野圭吾",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 65,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "把自己交给他人的眼光去评判，正是产生不安和怀疑的根源。",
+      "name": "生活在别处",
+      "author": "米兰・昆德拉",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 66,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "你不能永远总是对过去发生的事耿耿于怀。你应该认识到你与大多数人一样过得很好，或许还要好得多，那就应该心满意足了。",
+      "name": "长日将尽",
+      "author": "石黑一雄",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 67,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "生活不可能像你想象的那么好，但也不会像你想象的那么糟。",
+      "name": "羊脂球",
+      "author": "莫泊桑",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 68,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "世界上最宽阔的是海洋，比海洋更宽阔的是天空，比天空更宽阔的是人的心灵。",
+      "name": "悲惨世界",
+      "author": "雨果",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 69,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "地上本没有路，有的人多了，也便成了路。",
+      "name": "",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 70,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "我翻开历史一查，这历史没有年代。歪歪斜斜的每页上都写着“仁义道德”几个字，我横竖睡不着，仔细看了半夜，才从字缝里看出来，满本上都写着两个字“吃人”！",
+      "name": "狂人日记",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+     {
+      "type": 1,
+      "discover_item_id": 71,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "中国人的性情是总喜欢调和折中的，譬如你说，这屋子太暗，须在这里开一个窗，大家一定不允许的。但如果你主张拆掉屋顶他们就来调和，愿意开窗了。",
+      "name": "无声的中国",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 72,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。这是怎样的哀痛者和幸福者？然而造化又常常为庸人设计，以时间的流驶，来洗涤旧迹，仅使留下淡红的血色和微漠的悲哀。",
+      "name": "纪念刘和珍君",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 73,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "在行进时，也时时有人退伍，有人落荒，有人颓唐，有人叛变，然而只要无碍于进行，则愈到后来，这队伍也就愈成为纯粹，精锐的队伍了。",
+      "name": "二心集",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 74,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "近来很通行说青年；开口青年，闭口也是青年。但青年又何能一概而论？有醒着的，有睡着的，有昏着的，有躺着的，有玩着的，此外还多。但是，自然也有要前进的。",
+      "name": "导师",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 75,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "在我的后园，可以看见墙外有两株树，一株是枣树，还有一株也是枣树。",
+      "name": "秋夜",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 76,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "街灯的光穿窗而入，屋子里显出微明，我大略一看，熟识的墙壁，壁端的棱线，熟识的书堆，堆边的未订的画集，外面的进行着的夜，无穷的远方，无数的人们，都和我有关。",
+      "name": "这也是生活",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 77,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "我的心也仿佛同时变了铅块，很重很重的堕下去了。但心又不竟堕下去而至于断绝，他只是很重很重地堕着，堕着。",
+      "name": "风筝",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 78,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "我以为别人尊重我，是因为我很优秀，后来才明白，别人尊重我，是因为别人很优秀。",
+      "name": "理解尊重",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 79,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "当我沉默的时候，我觉得很充实，当我开口说话，就感到了空虚。",
+      "name": "野草",
+      "author": "鲁迅",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 80,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "楼下一个男人病得要死，那间隔壁的一家唱着留声机，对面是弄孩子。楼上有两人狂笑；还有打牌声。河中的船上有女人哭着她死去的母亲。人类的悲欢并不相通，我只觉得他们吵闹。",
+      "name": "小杂感",
+      "author": "鲁迅",
+      "category":"书",
       "love_num": 0,
       "collect_num": 0,
       "comment_num": 0
