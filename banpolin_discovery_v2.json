@@ -21,7 +21,7 @@
       "type": 1,
       "discover_item_id": 1,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_1.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_11.png"
       ],
       "quote": "我看着那条弯曲着通向城里的小路，听不到我儿子赤脚跑来的声音，月光照在路上，像是撒满了盐。",
       "name": "活着",
@@ -35,7 +35,7 @@
       "type": 1,
       "discover_item_id": 2,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_1.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_12.png"
       ],
       "quote": "君不见黄河之水天上来，奔流到海不复回。\n君不见高堂明镜悲白发，朝如青丝暮成雪。\n人生得意须尽欢，莫使金樽空对月。\n天生我材必有用，千金散尽还复来。",
       "name": "",
@@ -49,7 +49,7 @@
       "type": 1,
       "discover_item_id": 3,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_13.png"
       ],
       "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
       "name": "",
@@ -63,10 +63,10 @@
       "type": 1,
       "discover_item_id": 4,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_14.png"
       ],
-      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
-      "name": "",
+      "quote": "云想衣裳花想容，春风拂槛露华浓。",
+      "name": "清平调·其一",
       "author": "李白",
       "category":"古诗词",
       "love_num": 10,
@@ -77,10 +77,10 @@
       "type": 1,
       "discover_item_id": 5,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_15.png"
       ],
-      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
-      "name": "",
+      "quote": "不敢高声语，恐惊天上人。",
+      "name": "夜宿山寺",
       "author": "李白",
       "category":"古诗词",
       "love_num": 10,
@@ -91,11 +91,11 @@
       "type": 1,
       "discover_item_id": 6,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_32.png"
       ],
       "quote": "如果你渴望得到某样东西，你得让它自由，如果它回到你身边，它就是属于你的，如果它不会回来，你就从未拥有过它。",
       "name": "基督山伯爵",
-      "author": "大仲马",
+      "author": "法·大仲马",
       "category":"书",
       "love_num": 10,
       "collect_num": 5,
@@ -105,7 +105,7 @@
       "type": 1,
       "discover_item_id": 7,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_33.png"
       ],
       "quote": "当你拼命想完成一件事的时候，你就不再是别人的对手，或者说得更确切一些，别人就不再是你的对手了，不管是谁，只要下了这个决心，他就会立刻觉得增添了无穷的力量，而他的视野也随之开阔了。",
       "name": "基督山伯爵",
@@ -119,7 +119,7 @@
       "type": 1,
       "discover_item_id": 8,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_34.png"
       ],
       "quote": "你是不是因为太懦弱了，才这样以炫耀自己的痛苦来作为自己的骄傲？",
       "name": "基督山伯爵",
@@ -135,8 +135,8 @@
       "img": [
         "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
       ],
-      "quote": "噫吁嚱，危乎高哉！\n蜀道之难，难于上青天！",
-      "name": "",
+      "quote": "早知如此绊人心，何如当此莫相识。",
+      "name": "秋风词",
       "author": "李白",
       "category":"古诗词",
       "love_num": 10,
@@ -863,10 +863,10 @@
       "img": [
         "https://www.sfwind.cn/AppPrivacy/images/banpolin_only_picture_0.png"
       ],
-      "quote": "",
-      "name": "",
-      "author": "",
-      "category":"",
+      "quote": "婚姻是一座围城，城外的人想进去，城里的人想出来。",
+      "name": "围城",
+      "author": "钱钟书",
+      "category":"书",
       "love_num": 0,
       "collect_num": 0,
       "comment_num": 0
@@ -1136,7 +1136,1200 @@
       "love_num": 0,
       "collect_num": 0,
       "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 81,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "万籁生山，一星在水，鹤梦疑重续。",
+      "name": "百字令·月夜过七里滩",
+      "author": "清·厉鹗",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 82,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "海棠影下，子规声里，立尽黄昏。",
+      "name": "眼儿媚·平沙芳草渡头村",
+      "author": "南宋·洪咨夔",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 83,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "月光还是少年的月光，九州一色还是李白的霜。",
+      "name": "独白",
+      "author": "余光中",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+     {
+      "type": 1,
+      "discover_item_id": 84,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "向晚餐后的沉思冥想去整理青苔深深的记忆。前尘隔海，古屋不再，听听那冷雨。",
+      "name": "听听那冷雨",
+      "author": "余光中",
+      "category":"散文",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 85,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "人往往就这样，一个人的时候是一种样子，好多人汇聚到一起又完全变成另一种样子。",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 86,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "人有脸时怕这怕那，既是没脸了啥也都不怕了，倒好!",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 87,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "活着就要记住，人生最痛苦最绝望的那一刻是最难熬的一刻，但不是生命结束的最后一刻;熬过去挣过去就会开始一个重要的转折，开始一个新的辉煌历程;心软一下熬不过去就死了，死了一切就都完了。",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 88,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_10.png"
+      ],
+      "quote": "世上有许多事，尽管看得清清楚楚，却不能说出口来。有的事看见了认准了，必须说出来;有的事至死也不能说。能把握住什么事必须说，什么事不能说的人，才是真正的男人。",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 89,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "这双眼睛习文可以治国安邦，习武则可能统领千军万马。",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 90,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "凡人们绝对信服圣人的圣言，但是却不真心实意的施行，这并不是圣人的悲剧，而是凡人永远也成不了圣人的缘故。",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 91,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "好好活着！活着就要记住，人生最痛苦最绝望的那一刻是最难熬的一刻，但不是生命结束的最后一刻;熬过去挣过去就会开始一个重要的转折开始一个新的辉煌历程;心软一下熬不过去就死了，死了一切就都完了。好好活着，活着就有希望。",
+      "name": "白鹿原",
+      "author": "陈忠实",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 92,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_17.png"
+      ],
+      "quote": "你尽情熬吧，反正你想的那个人很可能已经睡了，被子盖得很好，梦也很香甜。这个夜晚你除了收获到猝死的可能性以外，没有任何东西留给你。",
+      "name": "熬夜成瘾",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 93,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你做过一次手术，就知道喝药根本不算什么；你狠狠的摔倒过，就知道擦破皮不值得哭；你背叛过，就知道吵两句嘴不算什么。希望你慢慢学会长大，希望你开始不在意受伤，希望你伤痕累累，但依然闪闪发光。",
+      "name": "学不会",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 94,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "爱情里有两种遗憾，一种是曾经你那么用力的爱过，最后却发现那个人根本不值得；另一种是你没有好好的去爱，失去了，才发现那是一个真正值得的人。",
+      "name": "爱情转移",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 95,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你已经是个大人了，应该懂得如何区分清楚生活和爱情之间的关系，生活不是为了爱情而生，而爱情却是基于生活依存。你可以有一段糟糕的爱情，但不能放纵自己过一个烂透的人生。",
+      "name": "你给我听好",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 96,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "那些躺在黑名单的人，最开始也都是踩着七彩云朵而来照亮过整个世界。",
+      "name": "最佳损友",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 97,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "世界上没有什么糖是苦的 \n有啊 他的喜糖",
+      "name": "红玫瑰",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 98,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "听过很多不可能，但依然执着于一个人。",
+      "name": "依然",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 99,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你别皱眉，我走就好。",
+      "name": "很爱很爱你",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 100,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "友情以上，恋人未满，不甘朋友，不敢恋人。",
+      "name": "词不达意",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 101,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我从未拥有过你一秒钟，心里却失去过你千万次。",
+      "name": "再见二丁目",
+      "author": "网易云音乐热评",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 102,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "兵者，国之大事，死生之地，存亡之道，不可不察也。",
+      "name": "孙子兵法",
+      "author": "孙武",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+     {
+      "type": 1,
+      "discover_item_id": 103,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "万事不由人做主，一心难与命争衡。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+     {
+      "type": 1,
+      "discover_item_id": 104,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "大丈夫处世，当努力建功立业，著鞭在先。今若不取，为他人所取，悔之晚矣。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 105,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "宁教我负天下人，休教天下人负我。",
+      "name": "三国演义",
+      "author": "曹操",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 106,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "良禽择木而栖，贤臣择主而事。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 107,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "君疑臣则臣必死。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 108,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "大丈夫生居天地间，岂能郁郁久居人下！",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 109,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "大丈夫生于乱世，当带三尺剑立不世之功；今所志未遂，奈何死乎！",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 110,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "周郎妙计安天下，陪了夫人又折兵！",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 111,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "血染征袍透甲红，当阳谁敢与争锋！古来冲阵扶危主，只有常山赵子龙。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 112,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "一壶浊酒喜相逢，古今多少事，都付笑谈中。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 113,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "玉可碎而不可改其白，竹可焚而不可毁其节。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 114,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "天下大势，分久必合，合久必分。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 115,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "兵家胜败真常事，卷甲重来未可知。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 116,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "自古骄兵多致败，从来轻敌少成功。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 117,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "既生瑜，何生亮！",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 118,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "生子当如孙仲谋。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 119,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "滚滚长江东逝水，浪花淘尽英雄。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 120,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "大丈夫处世，不能立功建业，几与草木同腐乎？",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 121,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "大梦谁先觉，平生我自知。草堂春睡足，窗外日迟迟。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 122,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "凤翱翔于千仞兮，非梧不栖；士伏处于一方兮，非主不依。乐躬耕于陇亩兮，吾爱吾庐；聊寄傲于琴书兮，以待天时。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 123,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "色厉胆薄，好谋无断，干大事而惜身，见小利而忘命，非英雄也。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 124,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "将军欲成霸业，北让曹操占天时，南让孙权占地利，将军可占人和。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 125,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "将军欲成霸业，北让曹操占天时，南让孙权占地利，将军可占人和。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 126,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "将军欲成霸业，北让曹操占天时，南让孙权占地利，将军可占人和。",
+      "name": "三国演义",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 127,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人的一生注定会遇到两个人，一个惊艳了时光，一个温柔了岁月。",
+      "name": "经年",
+      "author": "苏剧",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 128,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你遇见了一个人，犯了一个错，你想弥补想还清，到最后才发现你根本无力回天，犯下的罪过永远无法弥补。我们无法还清欠下的......只要错了，就是错了永远无法弥补。",
+      "name": "大鱼海棠",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 129,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "天下尽做饵，唯本帅执杆。",
+      "name": "画江湖之不良人",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 130,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我遥望未来，一片混沌。再回首，你的身后一片虚无。",
+      "name": "完美世界",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 131,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "这件官服让多少人家破人亡啊，你有生之年穿这身官服应该无所求了吧！",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 132,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "趋利避害，人之常情！每个人的下场都一样的，死而已！",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 133,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "海瑞：你让我太失望了！\n离歌笑：很多人对我都很失望，不差你一个！",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 134,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人生有时就是这样，你伤害一个人，并不是你故意的，而是出于一种无可奈何。如果你因为这样而惭愧不安的话，倒不如把握机会，弥补这一切。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 135,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "像梅花一样，不管遇到多大的困难都要坚定不移。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 136,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "做人，应该为离别而高歌欢笑，那时候我不懂，后来我发现，为离别而哭、内疚、痛心，是因为在一起的时候，为了没有做好而哭，原来是为了自己的不懂珍惜而心痛。拥有的时候懂得珍惜，离别的时候才不会有遗憾。离别，不就是为了迎接另一个全新的未来的开始吗，不是值得高歌欢笑吗。就像这一路上遇到过多少挫折、风雨，最过不了的并不是什么天崩地裂，我们最敌不过的其实是自己。我的朋友，继续为自己所爱的、梦想的、命中注定的义无反顾的坚持下去。不经一番寒彻骨，怎得梅花扑鼻香呢？",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 137,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "要记住，有些时候后悔是无济于事的，我们已经失去了很多，只要不再失去教训就行。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 138,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "当你失去过一切，当一切无法挽回的时候，你就会知道有些事情你今天不做，明天你就会后悔一生。后悔是最没用的事，趁你现在有能力，能够改变现实，就尽量去做，别让自己遗憾，为爱你的人和保护你的人，做你应该做的事情。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 139,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "女人在生气的时候，如果硬要跟她讲道理的话，就是笨。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 140,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "不要把心疼变成是责骂。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 141,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "不顾后果、横冲直撞，你的血性是你敌人的攻击武器，你所谓的正义是小孩子的智慧。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 142,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我们这些人注定要先走一步，让世人明白，在妖魔横行的世道里，有一群人，正在为了明天拼命。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 143,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "因为你牺牲才拨乱反正。我们的确贪生怕死为虎作伥，我们不能为了正义把家庭和孩子放在刀锋边缘，我们潇洒不起，牺牲不起。我们希望能够苟活多一刻，宁愿当一世罪人、受尽唾弃，换来能够与所爱的人相处多一刻，让他们过好日子。男儿保护家眷，乃是天经地义，但我们还有良知，我们还知道什么是对什么是错。你有你值得做的事，我们也有。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 144,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "要除奸人，就得比他们更奸，要抢狐狸嘴巴里的肉，就要比狐狸更狡猾。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 145,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "要除奸人，就得比他们更奸，要抢狐狸嘴巴里的肉，就要比狐狸更狡猾。",
+      "name": "怪侠一枝梅",
+      "author": "",
+      "category":"影视",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 146,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "和他相遇的瞬间，我的人生就改变了。所见所闻所感，目之所及全都开始变得多姿多彩起来，至世界，都开始发光发亮!",
+      "name": "四月是你的谎言",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 147,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我在无人处爱你，云雾散尽我爱你人尽皆知!",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 148,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "弱者连死亡的方式都无法选择",
+      "name": "海贼王",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 149,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你出生入死过几次，但是并不意味着你就是大人了。枕边脱落的头发变多了，喜欢吃的夹心面包从便利店消失了，这些小小的绝望堆积起来，才会让人长大。",
+      "name": "",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 150,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "不要哭，真难看，这个世界从来不曾对谁温柔。",
+      "name": "",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 151,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "小心弱者的善良，他们只是无力践踏强者而已。",
+      "name": "",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 152,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "说出的话是收不回来的，语言是把利刃，使用不当会成为可怕的凶器。因为一句话的差错可能会失去一生的挚友，一次擦肩而过可能就再也见不到了。",
+      "name": "名侦探柯南",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 153,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你认为坟墓有什么意义？”坟墓不仅是埋葬人们遗体和骨灰的地方，真正需要坟墓的，是那些活着的人的心。",
+      "name": "犬夜叉",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 154,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "平凡是最幸福的。生病、意外、倒闭、离婚……这些事儿，都不知道什么时候会发生。如果能平凡的度过一生，那当然是件可喜可贺的事情啊。",
+      "name": "蜡笔小新",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 155,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我喜欢了你十年，却用整个四月，编织了一个我不爱你的谎言。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 156,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "爱一个人总是简单，无非心念所致，生万千欢喜，懂一个人却需要漫长岁月的温柔耐心，聚沙成塔，滴水石穿。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 157,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "转瞬即逝的相逢与离别，每一个瞬间，我都想要珍惜。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 158,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "被大家所依赖的人，往往在受伤时独自面对痛苦。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 159,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "大部分人并不想长大，只是没法继续当小孩罢了。",
+      "name": "小林家的龙女仆",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 160,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "强加于人的善意，与恶意有什么区别呢？",
+      "name": "反叛的鲁鲁修",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 161,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "如果把童年再放映一遍，我们一定会先大笑，然后放声痛哭，最后挂着泪，微笑着睡去。",
+      "name": "龙猫",
+      "author": "",
+      "category":"动漫",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 162,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "此去泉台招旧部,旌旗十万斩阎罗。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 163,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "一萧一剑平生意，负尽狂名十五年。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 164,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "敌可摧，旄头灭，履胡之肠涉胡血。 悬胡青天上，埋胡紫塞傍。 胡无人，汉道昌。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 165,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人应该支配习惯，而决不能让习惯支配人。",
+      "name": "",
+      "author": "",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
     }
+
+
+
 
 
   ]
