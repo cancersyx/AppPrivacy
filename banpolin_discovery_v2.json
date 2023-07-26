@@ -1,5 +1,5 @@
 {
-  "date": "2023-07-19",
+  "date": "2023-07-25",
   "result": [
     {
       "type": 0,
@@ -21,7 +21,7 @@
       "type": 1,
       "discover_item_id": 1,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_11.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_43.png"
       ],
       "quote": "我看着那条弯曲着通向城里的小路，听不到我儿子赤脚跑来的声音，月光照在路上，像是撒满了盐。",
       "name": "活着",
@@ -133,7 +133,7 @@
       "type": 1,
       "discover_item_id": 9,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_41.png"
       ],
       "quote": "早知如此绊人心，何如当此莫相识。",
       "name": "秋风词",
@@ -175,7 +175,7 @@
       "type": 1,
       "discover_item_id": 12,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_42.png"
       ],
       "quote": "人是为活着本身而活着的，而不是为了活着之外的任何事物所活着。 生活是属于每个人自己的感受，不属于任何别人的看法。",
       "name": "活着",
@@ -217,7 +217,7 @@
       "type": 1,
       "discover_item_id": 15,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_44.png"
       ],
       "quote": "正像一位诗人所表达的：人类无法忍受太多的真实。",
       "name": "活着",
@@ -231,7 +231,7 @@
       "type": 1,
       "discover_item_id": 16,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_45.png"
       ],
       "quote": "人最宝贵的是生命。生命属于人只有一次。人的一生应当这样度过：当他回首往事的时候，不会因为碌碌无为、虚度年华而悔恨，也不会因为为人卑劣、生活庸俗而愧疚。这样，在临终的时候，他就能够说：‘我已把自己整个的生命和全部的精力献给了世界上最壮丽的事业——为人类的解放而奋斗。",
       "name": "钢铁是怎样练成的",
@@ -273,7 +273,7 @@
       "type": 1,
       "discover_item_id": 19,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_46.png"
       ],
       "quote": "蓬山此去无多路，青鸟殷勤为探看。",
       "name": "无题·相见时难别亦难",
@@ -287,7 +287,7 @@
       "type": 1,
       "discover_item_id": 20,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_47.png"
       ],
       "quote": "四面边声连角起，千嶂里，长烟落日孤城闭。",
       "name": "渔家傲·秋思",
@@ -357,7 +357,7 @@
       "type": 1,
       "discover_item_id": 25,
       "img": [
-        "https://www.sfwind.cn/AppPrivacy/images/banpolin_2.png"
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_49.png"
       ],
       "quote": "他日若遂凌云志，敢笑黄巢不丈夫。",
       "name": "水浒传",
@@ -2326,7 +2326,512 @@
       "love_num": 0,
       "collect_num": 0,
       "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 166,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "仗义每多屠狗辈，无情最是读书人。",
+      "name": "",
+      "author": "明·曹学佺",
+      "category":"",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 167,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我认为，每个人都有一个觉醒期，但觉醒的早晚决定个人的命运。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 168,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "生活不能等待别人来安排，要自己去争取和奋斗；而不论其结果是喜是悲，但可以慰藉的是，你总不枉在这世界上活了一场。有了这样的认识，你就会珍重生活，而不会玩世不恭；同时，也会给人自身注入一种强大的内在力量。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 169,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "生命里有着多少的无奈和惋惜，又有着怎样的愁苦和感伤？雨浸风蚀的落寞与苍楚一定是水，静静地流过青春奋斗的日子和触摸理想的岁月。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 170,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人们宁愿去关心一个蹩脚电影演员的吃喝拉撒和鸡毛蒜皮，而不愿了解一个普通人波涛汹涌的内心世界……",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 171,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "其实我们每个人的生活都是一个世界，即使最平凡的人也要为他生活的那个世界而奋斗。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 172,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "命运总是不如人愿。但往往是在无数的痛苦中，在重重的矛盾和艰辛中，才使人成熟起来。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 173,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "生活包含着更广阔的意义，而不在于我们实际得到了什么；关键是我们的心灵是否充实。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 174,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人之所以痛苦，在于追求错误的东西。如果你不给自己烦恼，别人也永远不可能给你烦恼。因为你自己的内心，你放不下。好好的管教你自己，不要管别人。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 175,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人和社会，一切斗争的总结局也许都是中庸而已。与其认真，不如随便，采菊东篱下，悠然见南山。有钱就寻一醉，无钱就寻一睡，与过无争，随遇而安。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 176,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "无论精神多么独立的人，感情却总是在寻找一种依附，寻找一种归宿。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 177,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "要知道，春天的道路依然充满泥泞！",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 178,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人的生命力，是在痛苦的煎熬中强大起来的。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 179,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "你永远要宽恕众生，不论他有多坏，甚至他伤害过你，你一定要放下，才能得到真正的快乐。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 180,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "既要脚踏实地于现实生活，又要不时跳出现实到理想的高台上张望一眼。在精神世界里建立起一套丰满的体系，引领我们不迷失不懈怠。待我们一觉醒来，跌落在现实中的时候，可以毫无怨言地勇敢地承担起生活重担。这是孙少平教给我的道理。只能永远把艰辛的劳动看做生命的必要，即使没有收获的指望，也心平气静地继续耕种。要做到这一点，路还好长。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 181,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "一个平凡而普通的人，时时都会感到被生活的波涛巨浪所淹没。你会被淹没吗？除非你甘心就此而沉沦！",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 182,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "是的，小时候，我们常常把“亲戚”看得多么美好和重要。一旦长大成人，开始独立生活，我们便很快知道，亲戚关系常常是庸俗的；互相设法沾光，沾不上光就翻白眼；甚至你生活中最大的困难也常常是亲戚们造成的；生活同样会告诉你，亲戚往往不如朋友对你真诚。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 183,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人生啊，是这样不可预测，没有永恒的痛苦，也没有永恒的幸福，生活像流水一般，有时是那么平展，有时又是那么曲折。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 184,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "即使没有月亮，心中也是一片皎洁。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 185,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "因为你能痛苦，就说明你对生活还抱有希望！",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 186,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "时光静悄悄地流逝。世界上有些人因为忙而感到生活的沉重，而有些人因为闲而活得压抑。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 187,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "青年，青年！无论受怎样的挫折和打击，都要咬着牙关挺住，因为你们完全有机会重建生活；只要不灰心丧气，每一次挫折就只不过是通往新境界的一块普通绊脚石，而绝不会置人于死命。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 188,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "生活中真正的勇士向来默默无闻，喧哗不止的永远是自视高贵的一群。不要怕苦难！如果能深刻理解苦难，苦难就会给你带来崇高感。如果生活需要你忍受苦难，你一定要咬紧牙关坚持下去，有位了不起的人说过：痛苦难道是白受的吗？它应该使我们伟大！",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 189,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "劳动是医治痛苦的良药，活着，是多么幸福的事情！花朵是美丽的，果实的价值更高，责任是让一个男孩成长为男人的最好的催化剂，不可思议吗？世界上又有多少事不可思议！",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 190,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "而最不可思议的正是人，人的感情。不要见怪，不要见外，命运总是不如人愿。但往往是在无数的痛苦中，在重重的矛盾和艰难中，才使人成熟起来，坚强起来；虽然这些东西在实际感受中给人带来的并不都是欢乐。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 191,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "人处在一种默默奋斗的状态，精神就会从琐碎生活中得到升华。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 192,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "多少美好的东西消失和毁灭了，世界还像什么事也没有发生。是的，生活在继续着。可是，生活中的每一个人却在不断地失去自己最珍贵的东西。生活永远是美好的；人的痛苦却时时在发生。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 193,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "连伟人的一生都充满了那么大的艰辛，一个平凡的人吃点苦又算得了什么呢？",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 194,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "喜欢海，不管湛蓝或是光灿，不管平静或是波涛汹涌，那起伏荡漾的，那丝丝的波动；喜欢听海的声音，不管是浪击礁石，或是浪涛翻滚，那轻柔的，那澎湃的；喜欢看海，不管心情是舒畅的或是沉闷的，不管天气是晴朗的或是阴沉的，那舒心的，那松弛的……",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 195,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "我不啼哭，不哀叹，不悔恨，金黄的落叶堆满心间，我已不再是青春少年。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 196,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "也许人生仅有那么一两个辉煌的瞬间——甚至一生都可能在平淡无奇中度过……不过，细想过来，每个人的生活同样也是一个世界。即使最平凡的人，也得要为他那个世界的存在而战斗。这个意义上说，在这些平凡的世界里，也没有一天是平静的。因此，大多数普通人不会象飘飘欲仙的老庄，时常把自己看作是一粒尘埃——尽管地球在浩渺的宇宙中也只不过是一粒尘埃罢了。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 197,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "年轻是一个中性词，它代表着很多缺点：缺乏经验、少不更事、容易冲动。但是也有很多优点，其中之一就是有大把的时间去遗忘那些不该记住的事情。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 198,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "在一个人的思想还没有强大到自己能完全把握自己的时候，就需要在精神上依托另一个比自己更强的人。也许有一天，学生会变成自己老师的老师——这是常常会有的——但人在壮大过程中的每一个阶段，都需要求得当时比自己的认识更高明的指教。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 199,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_16.png"
+      ],
+      "quote": "一个安静的夜晚，我独自一人，有些空虚，有些凄凉。坐在星空下，抬头仰望美丽天空，感觉真实却又虚幻，闪闪烁烁，似乎看来还有些跳动。美的一切总在瞬间，如同“海市蜃楼”般，也只是刹那间的一闪而过，当天空变得明亮，而这星星也早已一同退去……",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 200,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_51.png"
+      ],
+      "quote": "生活中有那么一种人，你藐视甚至侮辱他，他不仅视为正常，还对你挺佩服；你要是在人格上对他平等相待，他反而小看你！",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
+    },
+    {
+      "type": 1,
+      "discover_item_id": 201,
+      "img": [
+        "https://www.sfwind.cn/AppPrivacy/images/banpolin_50.png"
+      ],
+      "quote": "什么是人生？人生就是永不休止的奋斗！只有选定了目标并在奋斗中感到自己的努力没有虚掷，这样的生活才是充实的，精神也会永远年轻。",
+      "name": "平凡的世界",
+      "author": "路遥",
+      "category":"书",
+      "love_num": 0,
+      "collect_num": 0,
+      "comment_num": 0
     }
+
 
 
 
