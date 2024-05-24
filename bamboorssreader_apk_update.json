@@ -1,9 +1,9 @@
 {
-	"version_code":7,
+	"version_code":8,
 	"date":"20240524",
 	"force_update":0,
-	"apk_url":"http://sfwind.cn/AppPrivacy/apk/BambooRSS_20240524_V1.0.9.apk",
-	"md5":"35573f9e738be3ea70a6fc967a657b3d",
+	"apk_url":"http://sfwind.cn/AppPrivacy/apk/BambooRSS_20240524_V1.0.10.apk",
+	"md5":"5468bd1d6226ee7df3bdec20dd3aa658",
 	"description":"修复已知BUG，优化列表显示"
 
 }
