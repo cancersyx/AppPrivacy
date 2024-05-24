@@ -1,9 +1,9 @@
 {
 	"version_code":6,
-	"date":"20240516",
+	"date":"20240524",
 	"force_update":0,
-	"apk_url":"http://sfwind.cn/AppPrivacy/apk/BambooRSS_20240516_V1.0.6_UPGRADE.apk",
-	"md5":"4b80244df0f43a66c86d74da9a9560a1",
-	"description":"修复了已知BUG，优化了界面显示"
+	"apk_url":"http://sfwind.cn/AppPrivacy/apk/BambooRSS_20240524_V1.0.8.apk",
+	"md5":"ccbf916bcbf78ae13f38ed32470b5847",
+	"description":"修复已知BUG，优化列表显示"
 
 }

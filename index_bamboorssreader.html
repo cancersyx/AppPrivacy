@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
-    <title>竹子RSS阅读器</title>
+    <title>竹阅</title>
     <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -10,78 +11,153 @@
 </head>
 
 <body>
-  <div class="app">
-      <div class="logo"> <img src="http://www.sfwind.cn/AppPrivacy/images/icon_launcher_rss.png"><span>官方</span></div>
-      <h3>竹子RSS阅读器</h3>
-      <dt>竹子RSS阅读器，只看你想看的。</dt>
-      <a href="javascript:"  class="but">下载</a>
-  </div>
-  <div class="sm">
-      <p>开发者：换元不配限</p>
-      <p>版本：1.0.6</p>
-  </div>
-  <div class="popover">
-      <div class="text">
-          <p>1、点击右上角的
-          <span class="icon iconfont icon-more"></span>
-          <img src="images/jt.png" alt="">
-          </p>
-          <p>2、选择在浏览器打开即可正常下载</p>
-      </div>
-      <div class="mask"></div>
-  </div>
+    <div class="app">
+        <div class="logo"> <img src="http://www.sfwind.cn/AppPrivacy/images/icon_launcher_rss.png"><span>官方</span></div>
+        <h3>竹阅</h3>
+        <dt>竹阅APP，只看你想看的。</dt>
+        <a href="javascript:" class="but">下载</a>
+    </div>
+    <div class="sm">
+        <p>开发者：换元不配限</p>
+        <p>版本：1.0.7</p>
+    </div>
+    <div class="popover">
+        <div aria-modal="离开" <p>1、点击右上角的
+            <span class="icon iconfont icon-more"></span>
+            <img src="images/jt.png" alt="">
+            </p>
+            <p>2、选择在浏览器打开即可正常下载</p>
+        </div>
+        <div class="mask"></div>
+    </div>
 </body>
 <style type="text/css">
-.app{text-align: center; position: fixed;width: 100%; top: 20%;}
-.logo{height: 68px;width: 68px;position: relative;margin: 0 auto;}
-.logo img{width: 100%;border-radius: 10px;}
-.logo span{position: absolute;background: #007bff;color: #fff;display: block;top: -6px;right: -10px;padding: 0 5px;font-size: 1.0erm;}
-.app h3{font-weight: normal;font-size: 16px;margin-top: 15px;}
-.app dt{font-size: 13px;margin-top: 10px;color: #666;}
-.app a{    
-    background: #007bff;
-    display: block;
-    width: 200px;
-    color: #fff;
-    text-decoration: none;
-    line-height: 34px;
-    border-radius: 3px;
-    margin: 0 auto;
-margin-top: 30px;}
-.sm{text-align: center;position: fixed;bottom: 15px;width: 100%;color: #7d7d7d;}
-.popover{position: fixed;width: 100%;height: 100%;display: none;}
-.popover .mask{background: #000;width: 100%;height: 100%;display: block;opacity: 0.7;z-index: 1;}
-.text{position: relative;z-index: 9999;margin-top: 40px;padding: 20px 10%;color: #fff;}
-.text p{margin-top: 20px;font-size: 18px;    font-family: initial;}
-.text img{position: absolute;width: 20px;bottom: 70px;margin-left: 20px;}
+    .app {
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        top: 20%;
+    }
+
+    .logo {
+        height: 68px;
+        width: 68px;
+        position: relative;
+        margin: 0 auto;
+    }
+
+    .logo img {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .logo span {
+        position: absolute;
+        background: #007bff;
+        color: #fff;
+        display: block;
+        top: -6px;
+        right: -10px;
+        padding: 0 5px;
+        font-size: 1.0erm;
+    }
+
+    .app h3 {
+        font-weight: normal;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .app dt {
+        font-size: 13px;
+        margin-top: 10px;
+        color: #666;
+    }
+
+    .app a {
+        background: #007bff;
+        display: block;
+        width: 200px;
+        color: #fff;
+        text-decoration: none;
+        line-height: 34px;
+        border-radius: 3px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .sm {
+        text-align: center;
+        position: fixed;
+        bottom: 15px;
+        width: 100%;
+        color: #7d7d7d;
+    }
+
+    .popover {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        display: none;
+    }
+
+    .popover .mask {
+        background: #000;
+        width: 100%;
+        height: 100%;
+        display: block;
+        opacity: 0.7;
+        z-index: 1;
+    }
+
+    .text {
+        position: relative;
+        z-index: 9999;
+        margin-top: 40px;
+        padding: 20px 10%;
+        color: #fff;
+    }
+
+    .text p {
+        margin-top: 20px;
+        font-size: 18px;
+        font-family: initial;
+    }
+
+    .text img {
+        position: absolute;
+        width: 20px;
+        bottom: 70px;
+        margin-left: 20px;
+    }
 </style>
-<script src="js/jquery.min.js"></script> 
+<script src="js/jquery.min.js"></script>
 <script type="text/javascript">
     var ua = window.navigator.userAgent.toLowerCase();
     var uUserAgent = navigator.userAgent;
     var isAndroid = uUserAgent.indexOf('Android');
-    if(ua.match(/MicroMessenger/i)=="micromessenger"){
-      $('.popover').show();
-    }else{
-       $('.popover').hide();
+    if (ua.match(/MicroMessenger/i) == "micromessenger") {
+        $('.popover').show();
+    } else {
+        $('.popover').hide();
     }
-    $('.but').click(function(){
-        if(ua.match(/MicroMessenger/i)=="micromessenger"){
-           //微信
-          if(isAndroid > -1){
-               alert('请去浏览器里面下载')
-            }else{
-             // Toast('请去App Store中进行下载')
-              //window.location.href = 'https://apps.apple.com/cn/app/%E8%87%AA%E7%94%B1%E8%A3%85%E8%A3%85%E4%BF%AE/id1551584473'
+    $('.but').click(function () {
+        if (ua.match(/MicroMessenger/i) == "micromessenger") {
+            //微信
+            if (isAndroid > -1) {
+                alert('请去浏览器里面下载')
+            } else {
+                // Toast('请去App Store中进行下载')
+                //window.location.href = 'https://apps.apple.com/cn/app/%E8%87%AA%E7%94%B1%E8%A3%85%E8%A3%85%E4%BF%AE/id1551584473'
             }
-        }else{
-            if(isAndroid > -1){
-                 window.location.href = 'http://www.sfwind.cn/AppPrivacy/apk/BambooRSS_20240511_V1.0.6.apk';
-             }else{
-               // Toast('请去App Store中进行下载')
-               //window.location.href = 'https://apps.apple.com/cn/app/%E8%87%AA%E7%94%B1%E8%A3%85%E8%A3%85%E4%BF%AE/id1551584473'
+        } else {
+            if (isAndroid > -1) {
+                window.location.href = 'http://www.sfwind.cn/AppPrivacy/apk/BambooRSS_20240511_V1.0.7.apk';
+            } else {
+                // Toast('请去App Store中进行下载')
+                //window.location.href = 'https://apps.apple.com/cn/app/%E8%87%AA%E7%94%B1%E8%A3%85%E8%A3%85%E4%BF%AE/id1551584473'
             }
-            
+
         }
     });
 </script>
